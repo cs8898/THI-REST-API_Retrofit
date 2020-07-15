@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3eb2411-398a-4590-9254-aa4f2177357d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1e63N3WAEMdjkfAuvLckFO6jMDz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="JUnit.OAuthTest">
+    <configuration name="DefaultApiTest.authClosePostTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="thirestbridge.api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ml.raketeufo.thirestbridge.api.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ml.raketeufo.thirestbridge.api.api" />
+      <option name="MAIN_CLASS_NAME" value="ml.raketeufo.thirestbridge.api.api.DefaultApiTest" />
+      <option name="METHOD_NAME" value="authClosePostTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OAuthTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="thirestbridge.api" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ml.raketeufo.thirestbridge.api.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ml.raketeufo.thirestbridge.api.api" />
+      <option name="MAIN_CLASS_NAME" value="ml.raketeufo.thirestbridge.api.api.OAuthTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <envs>
+        <env name="BASE_URL" value="http://0.0.0.0:8080/" />
+        <env name="USERNAME" value="chs7229" />
+        <env name="PASSWORD" value="ztW4RPiN4LauAqARJc" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.DefaultApiTest.authClosePostTest" />
+      <item itemvalue="JUnit.OAuthTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OAuthTest" />
+        <item itemvalue="JUnit.DefaultApiTest.authClosePostTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3eb2411-398a-4590-9254-aa4f2177357d" name="Default Changelist" comment="" />
+      <created>1593628171515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593628171515</updated>
+      <workItem from="1593628176908" duration="10752000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2254" y="101" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593687007893">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2254" y="101" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1593687007893" />
+    <state x="2684" y="181" width="378" height="616" key="#com.intellij.ide.util.MemberChooser" timestamp="1593686599113">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2684" y="181" width="378" height="616" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1593686599113" />
+    <state x="2664" y="218" width="258" height="440" key="EnvironmentVariablesDialog" timestamp="1593686964011">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2664" y="218" width="258" height="440" key="EnvironmentVariablesDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1593686964011" />
+    <state width="1874" height="286" key="GridCell.Tab.0.bottom" timestamp="1593688741125">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="286" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1593688741125" />
+    <state width="1874" height="286" key="GridCell.Tab.0.center" timestamp="1593688741125">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="286" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1593688741125" />
+    <state width="1874" height="286" key="GridCell.Tab.0.left" timestamp="1593688741125">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="286" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1593688741125" />
+    <state width="1874" height="286" key="GridCell.Tab.0.right" timestamp="1593688741125">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="286" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1593688741125" />
+  </component>
+</project>
