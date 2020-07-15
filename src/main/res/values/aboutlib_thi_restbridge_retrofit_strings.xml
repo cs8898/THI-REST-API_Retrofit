@@ -14,6 +14,9 @@
     <string name="library_THI_REST_API_Retrofit_licenseId">agpl_3_0</string>
     <!-- you still can define the license within your library definition, but it is recommend to use the id -->
     <!-- possible fields for a custom license: *_licenseVersion, *_licenseLink, *_licenseContent -->
+    <string name="library_THI_REST_API_Retrofit_licenseVersion">GNU AGPL 3.0</string>
+    <string name="library_THI_REST_API_Retrofit__licenseLink">https://www.gnu.org/licenses/agpl-3.0.html</string>
+    <string name="library_THI_REST_API_Retrofit__licenseContent">raw:license_agpl_3_0</string>
     <string name="library_THI_REST_API_Retrofit_isOpenSource">true</string>
     <string name="library_THI_REST_API_Retrofit_repositoryLink">https://github.com/cs8898/THI-REST-API_Retrofit</string>
 </resources>
