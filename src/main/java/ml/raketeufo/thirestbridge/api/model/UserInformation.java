@@ -12,6 +12,7 @@
 
 package ml.raketeufo.thirestbridge.api.model;
 
+import java.io.Serializable;
 import java.util.Objects;
 import java.util.Arrays;
 import com.google.gson.TypeAdapter;
@@ -31,7 +32,7 @@ import ml.raketeufo.thirestbridge.api.model.Rueckmeldung;
  */
 
 @javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2020-07-05T00:54:42.271211+02:00[Europe/Berlin]")
-public class UserInformation {
+public class UserInformation implements Serializable {
   @SerializedName("addresse")
   private Adresse addresse = null;
 
