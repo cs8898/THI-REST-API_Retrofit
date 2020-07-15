@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- If you include it in your own library use this pattern: define_* -->
+    <!-- If it should be included in the AboutLibraries lib use this pattern: define_int_* -->
+    <string name="define_THI_REST_API_Retrofit"></string>
+    <string name="library_THI_REST_API_Retrofit_author">Christian Schmied</string>
+    <string name="library_THI_REST_API_Retrofit_authorWebsite">https://raketeufo.ml/</string>
+    <string name="library_THI_REST_API_Retrofit_libraryName">THI-REST-API_Retrofit</string>
+    <string name="library_THI_REST_API_Retrofit_libraryDescription">THI_REST_API_Retrofit is a Retrofit based API for the THI Rest-BRIDGE,
+    its mainly auto generated with swagger code gen, some slight modifications are included for OAuth Flow</string>
+    <!--<string name="library_THI_REST_API_Retrofit_libraryVersion">4.3.1</string>
+    <string name="library_THI_REST_API_Retrofit_libraryWebsite">http://actionbarsherlock.com/</string>-->
+    <!-- Possible values right now: apache_2_0, mit, bsd_2, bsd_3 -->
+    <string name="library_THI_REST_API_Retrofit_licenseId">agpl_3_0</string>
+    <!-- you still can define the license within your library definition, but it is recommend to use the id -->
+    <!-- possible fields for a custom license: *_licenseVersion, *_licenseLink, *_licenseContent -->
+    <string name="library_THI_REST_API_Retrofit_isOpenSource">true</string>
+    <string name="library_THI_REST_API_Retrofit_repositoryLink">https://github.com/cs8898/THI-REST-API_Retrofit</string>
+</resources>
